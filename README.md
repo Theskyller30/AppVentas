@@ -1,4 +1,4 @@
-# Acerca de
+# Acerca del Sistema de ventas
 
 Este sistema de ventas cuenta con control de productos, ventas, usuarios, reportes. Exportación de reportes a excel. Gestión de usuarios por roles. Cuenta con su propia API en caso de ser requerida.
 
