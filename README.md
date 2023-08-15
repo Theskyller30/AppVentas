@@ -4,12 +4,12 @@ Este sistema de ventas cuenta con control de productos, ventas, usuarios, report
 
 ### Resultado
 
-Puedes ver el resultado final en: [Sistema de Ventas](https://sistema-venta-lasi.netlify.app).
+Puedes ver el resultado final en: [Sistema de Ventas](xxxxxxxxxxxxxxxxx).
 
 Credenciales de prueba:
 
-- Correo: angel@gmail.com
-- Contraseña: 12345
+- Correo: juan@gmail.com
+- Contraseña: 7854
 
 ### Desarrollado con
 
